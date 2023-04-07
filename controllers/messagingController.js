@@ -1,4 +1,8 @@
-import { extractRecommendationTagsFromMessage } from "./openAIController.js";
+import {
+  extractRecommendationTagsFromMessage,
+  generateAnswerBasedOnContext,
+  getContextForRecommendations,
+} from "./openAIController.js";
 import dotenv from "dotenv";
 dotenv.config({ path: "./config.env" });
 
@@ -6,13 +10,21 @@ const { BOT_TOKEN } = process.env;
 const TELEGRAM_API = `https://api.telegram.org/bot${BOT_TOKEN}`;
 
 export const processMessage = async (req, res, next) => {
-  console.log(req.body);
-
+  //   console.log(req.body);
+  console.log("process message called ..... ");
   const chatId = req.body.message.chat.id;
   const text = req.body.message.text;
   console.log("chatId is ", chatId);
   console.log("text for chat Id is ", text);
-  const response = await extractRecommendationTagsFromMessage(text);
+  const tag = await extractRecommendationTagsFromMessage(text);
+  const contextDocs = await getContextForRecommendations(tag, "restaurantTag");
+  const recommendation = await generateAnswerBasedOnContext(tag, contextDocs);
+  await sendReply(chatId, recommendation);
+  res.send();
+  console.log("process message completed");
+};
+
+const sendReply = async (chatId, response) => {
   try {
     const x = await fetch(`${TELEGRAM_API}/sendMessage`, {
       method: "POST",
@@ -22,7 +34,7 @@ export const processMessage = async (req, res, next) => {
       },
       body: JSON.stringify({
         chat_id: chatId,
-        text: `Here is my understanding of the provided message \n ${response}`,
+        text: `${response}`,
       }),
     });
     const y = await x.json();
@@ -30,5 +42,4 @@ export const processMessage = async (req, res, next) => {
   } catch (error) {
     console.log(error);
   }
-  return res.status(200);
 };
