@@ -16,12 +16,21 @@ export const processMessage = async (req, res, next) => {
   const text = req.body.message.text;
   console.log("chatId is ", chatId);
   console.log("text for chat Id is ", text);
-  const tag = await extractRecommendationTagsFromMessage(text);
-  const contextDocs = await getContextForRecommendations(tag, "restaurantTag");
-  const recommendation = await generateAnswerBasedOnContext(tag, contextDocs);
-  await sendReply(chatId, recommendation);
   res.send();
-  console.log("process message completed");
+  const result = await extractRecommendationTagsFromMessage(text);
+  if (result.requiresFurtherProcessing) {
+    const tag = result.message;
+    const contextDocs = await getContextForRecommendations(
+      tag,
+      "restaurantTag"
+    );
+    const recommendation = await generateAnswerBasedOnContext(tag, contextDocs);
+    await sendReply(chatId, recommendation);
+    console.log("process message completed, further processing");
+  } else {
+    await sendReply(chatId, result.message);
+    console.log("process message completed, no further processing ...");
+  }
 };
 
 const sendReply = async (chatId, response) => {

@@ -66,7 +66,18 @@ export const extractRecommendationTagsFromMessage = async (message) => {
     // const response = chatCompletion.data.choices[0].message;
     console.log("response is ", response.data.choices[0].text);
     const extractedTag = response.data.choices[0].text.split(":")[1];
-    return extractedTag;
+    const tagBreakDown = extractedTag.split("==");
+    if (tagBreakDown.length === 1) {
+      return {
+        message: tagBreakDown[0],
+        requiresFurtherProcessing: true,
+      };
+    } else {
+      return {
+        message: tagBreakDown[0],
+        requiresFurtherProcessing: false,
+      };
+    }
   } catch (err) {
     console.log(
       "-------------------------------------------------------------------------------"
