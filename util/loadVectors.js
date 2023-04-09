@@ -17,14 +17,14 @@ const pineconeIndex = client.Index(process.env.PINECONE_INDEX);
 const docs = [];
 for (var item of source) {
   const documentFromSourceItemTag = new Document({
-    metadata: { contentType: "restaurantTag" },
+    metadata: {
+      contentType: "restaurantTag",
+      restaurantName: item.restaurantName,
+      address: item.address,
+    },
     pageContent: item.tag,
   });
-  const documentFromSourceItemSummary = new Document({
-    metadata: { contentType: "restaurantSummary" },
-    pageContent: `name>${item.restaurantName}> ${item.summary}`,
-  });
-  docs.push(documentFromSourceItemSummary, documentFromSourceItemTag);
+  docs.push(documentFromSourceItemTag);
 }
 
 /**
