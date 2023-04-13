@@ -1,0 +1,194 @@
+[
+  {
+    "prompt": "<Where can I find a romantic restaurant for two with a budget of 60000 in Abuja?>",
+    "completion": "<A romantic restaurant for two with a budget of 60,000 in Abuja. *=needsContext:true>"
+  },
+  {
+    "prompt": "<Looking for a vegetarian restaurant with outdoor seating for four in Port Harcourt, budget is 45,000 Naira.>",
+    "completion": "<A vegetarian restaurant with outdoor seating for four in Port Harcourt, budget is 45,000 Naira. *=needsContext:true>"
+  },
+  {
+    "prompt": "<Can you recommend a restaurant for a romantic dinner with my partner?>",
+    "completion": "<A cozy and intimate restaurant with a romantic ambiance for two people in Lagos *=needsContext:true>"
+  },
+  {
+    "prompt": "<Do you know any good seafood restaurants in Victoria Island?>",
+    "completion": "<A seafood restaurant in Victoria Island with a wide variety of options *=needsContext:true>"
+  },
+  {
+    "prompt": "<I'm looking for a restaurant that serves vegan options. Any suggestions?>",
+    "completion": "<A vegan-friendly restaurant in Lagos with a variety of options to choose from *=needsContext:true>"
+  },
+  {
+    "prompt": "<I need a restaurant with a private room for a business meeting. Can you recommend one?>",
+    "completion": "<A private room for a business meeting in Lagos with a restaurant and refreshments available *=needsContext:true>"
+  },
+  {
+    "prompt": "<What's a good place to have a birthday party with a group of 15 people?>",
+    "completion": "<A spacious and lively restaurant for a group of 15 people to have a birthday party in Lagos *=needsContext:true>"
+  },
+  {
+    "prompt": "<Can you recommend a restaurant that serves traditional Nigerian cuisine?>",
+    "completion": "<A restaurant in Lagos that serves traditional Nigerian cuisine with a modern twist *=needsContext:true>"
+  },
+  {
+    "prompt": "<I want to take my family out for a nice dinner on the mainland. What's a good restaurant for that?>",
+    "completion": "<A family-friendly restaurant with a warm and welcoming ambiance for a nice dinner in Lagos on the mainland *=needsContext:true>"
+  },
+  {
+    "prompt": "<Where can I find a good brunch spot on the Mainland?>",
+    "completion": "<A brunch spot with a variety of options and a cozy atmosphere on the Lagos mainland *=needsContext:true>"
+  },
+  {
+    "prompt": "<Do you know any restaurants with live music?>",
+    "completion": "<A restaurant in Lagos with live music and a lively atmosphere for a fun night out *=needsContext:true>"
+  },
+  {
+    "prompt": "<I'm in the mood for some Italian food. Can you recommend a good Italian restaurant?>",
+    "completion": "<An Italian restaurant in Lagos with authentic and delicious Italian cuisine *=needsContext:true>"
+  },
+  {
+    "prompt": "<What's a good restaurant for a first date?>",
+    "completion": "<A romantic and intimate restaurant with a cozy ambiance for a first date in Lagos *=needsContext:true>"
+  },
+  {
+    "prompt": "<Can you recommend a restaurant with a view?>",
+    "completion": "<A restaurant in Lagos with a beautiful view and a great atmosphere for a memorable dining experience *=needsContext:true>"
+  },
+  {
+    "prompt": "<I'm looking for a restaurant that serves halal food. Any suggestions?>",
+    "completion": "<A halal-friendly restaurant in Lagos with a variety of options to choose from *=needsContext:true>"
+  },
+  {
+    "prompt": "<What's a good restaurant for a family dinner with kids?>",
+    "completion": "<A family-friendly restaurant with a kids' menu and a warm and welcoming ambiance for a dinner with kids in Lagos *=needsContext:true>"
+  },
+  {
+    "prompt": "<I want to have a night out with my friends. Where's a good place to go?>",
+    "completion": "<A restaurant in Lagos with a lively atmosphere and a variety of options for a fun night out with friends *=needsContext:true>"
+  },
+  {
+    "prompt": "<Can you recommend a restaurant for a business lunch?>",
+    "completion": "<A restaurant in Lagos with a quiet and professional atmosphere for a business lunch *=needsContext:true>"
+  },
+  {
+    "prompt": "<What's the weather like today?>",
+    "completion": "<I'm sorry, I'm not equipped to provide you with weather updates. Perhaps you can check your local news or weather app?>"
+  },
+  {
+    "prompt": "<Can you tell me a joke?>",
+    "completion": "<Sure, here's a classic one: Why did the tomato turn red? Because it saw the salad dressing! *=needsContext:false>"
+  },
+  {
+    "prompt": "<What's the capital of France?>",
+    "completion": "<The capital of France is Paris. *=needsContext:false>"
+  },
+  {
+    "prompt": "<How do I reset my password?>",
+    "completion": "<To reset your password, please follow the instructions provided on our website or contact our customer support team for assistance. *=needsContext:false>"
+  },
+  {
+    "prompt": "<What time does the next train arrive?>",
+    "completion": "<I'm sorry, I'm not equipped to provide you with train schedules. Perhaps you can check your local transportation website or app? *=needsContext:false>"
+  },
+  {
+    "prompt": "<What's the meaning of life?>",
+    "completion": "<The meaning of life is a philosophical question that has been debated for centuries. There is no one answer that fits all, as it varies from person to person. *=needsContext:false>"
+  },
+  {
+    "prompt": "<Can you recommend a good book to read?>",
+    "completion": "<Sure, I'd be happy to. What genre or topic are you interested in? *=needsContext:false>"
+  },
+  {
+    "prompt": "<What's the distance between New York and Los Angeles?>",
+    "completion": "<The distance between New York and Los Angeles is approximately 2,800 miles. *=needsContext:false>"
+  },
+  {
+    "prompt": "<What's your favorite color?>",
+    "completion": "<As an AI language model, I don't have personal preferences or emotions. I'm designed to provide information and generate responses based on the input I receive. *=needsContext:false>"
+  },
+  {
+    "prompt": "<How do I make a cheesecake?>",
+    "completion": "<To make a cheesecake, you will need a recipe and a list of ingredients. There are many great recipes available online, and you can also find instructional videos on cooking websites and social media platforms. *=needsContext:false>"
+  },
+  {
+    "prompt": "<I want to have dinner with my boyfriend tonight. Any recommendations?>",
+    "completion": "<A romantic restaurant with an intimate ambiance for a couple on a dinner date within Lagos city *=needsContext:true>"
+  },
+  {
+    "prompt": "<What's the best place to grab a quick bite in the city?>",
+    "completion": "<A fast food joint with a variety of options and affordable prices within Lagos city *=needsContext:true>"
+  },
+  {
+    "prompt": "<I'm craving Thai food. Where can I find good Thai cuisine in Lagos?>",
+    "completion": "<A restaurant that serves delicious Thai food in Lagos city *=needsContext:true>"
+  },
+  {
+    "prompt": "<My friends and I are planning a girls' night out. Any suggestions?>",
+    "completion": "<A trendy restaurant with a lively atmosphere for a group of friends on a night out within Lagos city *=needsContext:true>"
+  },
+  {
+    "prompt": "<I'm looking for a brunch spot with a beautiful outdoor seating area. Any ideas?>",
+    "completion": "<A restaurant with a lovely outdoor seating area that serves brunch in Lagos city *=needsContext:true>"
+  },
+  {
+    "prompt": "<What's the best place to have a business lunch in the city?>",
+    "completion": "<A professional and upscale restaurant for a business lunch meeting in Lagos city *=needsContext:true>"
+  },
+  {
+    "prompt": "<I want to try some local cuisine. Where can I find the best jollof rice in Lagos?>",
+    "completion": "<A restaurant that serves delicious local cuisine, including jollof rice, in Lagos city *=needsContext:true>"
+  },
+  {
+    "prompt": "<I'm a vegetarian. Can you recommend a good vegetarian restaurant in Lagos?>",
+    "completion": "<A vegetarian restaurant with delicious plant-based options in Lagos city *=needsContext:true>"
+  },
+  {
+    "prompt": "<I'm looking for a rooftop bar with a great view. Where can I find one in Lagos?>",
+    "completion": "<A rooftop bar with a stunning view for a night out in Lagos city *=needsContext:true>"
+  },
+  {
+    "prompt": "<I want to surprise my partner with a special dinner. Any recommendations?>",
+    "completion": "<A fancy restaurant with an upscale atmosphere for a romantic dinner date in Lagos city *=needsContext:true>"
+  },
+  {
+    "prompt": "<Wia i fit chop correct sharwama for Ikoyi wey no cost pass 5k?>",
+    "completion": "<A place to get delicious shawarma in Ikoyi that costs less than 5,000 naira. *=needsContext:true>"
+  },
+  {
+    "prompt": "<I wan carry my babe go romantic place for Festac wey no go tear my pocket>",
+    "completion": "<A romantic place in Festac that is affordable. *=needsContext:true>"
+  },
+  {
+    "prompt": "<Abeg, where i fit chop better isi-ewu and drink better palmwine for Lagos wey no go make my account red?>",
+    "completion": "<A place in Lagos to get delicious isi-ewu and palmwine that won't break the bank. *=needsContext:true>"
+  },
+  {
+    "prompt": "<Wia i fit buy small chops wey go do for small parry of like 15 people?>",
+    "completion": "<A place to buy small chops for a small party of 15 people. *=needsContext:true>"
+  },
+  {
+    "prompt": "<Abeg, i need one restaurant wey get correct delicious amala.>",
+    "completion": "<A restaurant that serves delicious amala. *=needsContext:true>"
+  },
+  {
+    "prompt": "<Which restaurant for Ajah dey sell correct catfish pepper soup wey no too cost?>",
+    "completion": "<A restaurant in Ajah that serves affordable and delicious catfish pepper soup. *=needsContext:true>"
+  },
+  {
+    "prompt": "<I wan find one restaurant wey i fit carry my family of six go chop for Lekki Phase 1 and our budget na like 30k>",
+    "completion": "<A family-friendly restaurant in Lekki Phase 1 where a family of six can eat for 30,000 naira. *=needsContext:true>"
+  },
+  {
+    "prompt": "<Abeg, wia i fit find correct sharwama for Ikeja?>",
+    "completion": "<A place in Ikeja to get delicious shawarma. *=needsContext:true>"
+  },
+  {
+    "prompt": "<Which restaurant i fit carry my babe go chop life for VGC wey no too cost?>",
+    "completion": "<A restaurant in VGC to have a romantic and affordable meal with your partner.*=needsContext:true>"
+  },
+  {
+    "prompt": "<I wan carry my oga for office go chop lunch for Ajah, abeg where i fit find correct food?>",
+    "completion": "<A restaurant in Ajah to have a delicious lunch with your boss.*=needsContext:true>"
+  }
+]

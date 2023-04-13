@@ -1,0 +1,416 @@
+[
+  {
+    "restaurantName": "Room Cafe",
+    "address": "190b Prince Ade Odedina Street, Victoria Island",
+    "tag": "Room Cafe - VI (Victoria Island), Lagos Chic ambiance, delicious food and drinks, with room for service improvement; budget of 30000 per person, located on the island. great for events, good for birthdays, good for bridal showers, date night, good with cocktails, expensive",
+    "summary": "Room Cafe, located in the VI (Victoria Island) area of Lagos, offers a chic ambiance and serves delicious food and drinks, making it a great spot for special occasions such as birthdays, bridal showers, and date night. While the cocktails are good, Keep in mind that the prices are on the higher side, with a budget of 30,000 naira per person. Overall, Room Cafe is a stylish venue for those looking to celebrate in style on the island."
+  },
+  {
+    "restaurantName": "Smalliez Diner ",
+    "address": "181b Moshood Olugbani, Victoria Island",
+    "tag": "Smalliez Diner - VI (Victoria Island), Vibrant atmosphere, generous portions, friendly service, budget of 20000 per person, located on the island. dress code, kid friendly, french toast, brunch",
+    "summary": "Smalliez Diner, located in the VI (Victoria Island) area of Lagos, offers a vibrant atmosphere and generous portions of delicious food. The friendly service makes it a great spot for families with kids, and the dress code is casual. They also serve excellent French toast for those looking for a sweet brunch option. Keep in mind that the budget is around 20,000 naira per person. Overall, Smalliez Diner is a great option for a casual and kid-friendly dining experience on the island."
+  },
+  {
+    "restaurantName": "Safron Restaurant ",
+    "address": "57 Joel Ogunnaike Street, Ikeja GRA",
+    "tag": "Smalliez Diner - VI (Victoria Island), Vibrant atmosphere, generous portions, friendly service, budget of 20000 per person, located on the island. rooftop, Ikeja, buffet, casual, great ambience",
+    "summary": "Saffron Restaurant is a lovely casual dining spot located in Ikeja on the mainland. With a rooftop setting, it offers great ambiance for diners. The buffet style menu features well-prepared dishes and friendly service, with a budget of 25000 Naira per person. It's a great option for those looking for a relaxed dining experience with an excellent ambiance. located on the mainland"
+  },
+  {
+    "restaurantName": "Taj Restaurant | Bar",
+    "address": "1064 Alagbon Close, Victoria Island, Lagos",
+    "tag": "Smalliez Diner - VI (Victoria Island), Vibrant atmosphere, generous portions, friendly service, budget of 20000 per person, located on the island. Indian, tacos, kitchen bistro",
+    "summary": "Taj Restaurant & Bar is a modern Indian restaurant located in the VI (Victoria Island) area of Lagos. They offer a stylish ambience and serve generous portions of delicious Indian cuisine. In addition to their Indian dishes, they also offer tasty tacos and have a kitchen bistro that serves up a variety of international fare. Keep in mind that the budget for dining here is around 24,000 naira per person. Overall, Taj Restaurant & Bar is a great option for those looking to try some unique and flavorful dishes on the island."
+  },
+  {
+    "restaurantName": "Placebo Restaurant & Bar",
+    "address": "51 Basheer Shittu Avenue, Magodo GRA Phase 2",
+    "tag": "Placebo Restaurant & Bar - Magodo: Nice ambience, decent food with highlights on chicken wings and pepper soup, budget of 18000 per person, located on the mainland.",
+    "summary": "Placebo Restaurant & Bar, located in Magodo: Nice ambience, decent food with highlights on chicken wings and pepper soup, budget of 18000 per person, located on the mainland."
+  },
+  {
+    "restaurantName": "Gusto",
+    "address": " 256 Etim Inyang Cresent, Victoria Island Nigeria",
+    "tag": "Gusto - VI (Victoria Island), Lagos: Stylish interior, diverse menu, reasonable pricing; budget-friendly at 25000 per person, located on the island. expensive, great ambience, great for pictures, Chinese food, sushi, mediterranean food, limited parking, great outdoor space, date night",
+    "summary": "Gusto is a stylish restaurant located in the VI (Victoria Island) area of Lagos, offering a great ambience and diverse menu that includes Chinese food, sushi, and Mediterranean cuisine. The interior is modern and chic, making it a great spot for a romantic date night or to take pictures. Keep in mind that the prices can be on the higher side, but it is still reasonably priced at around 25,000 naira per person. The restaurant has limited parking, but they make up for it with a great outdoor space that is perfect for enjoying a meal al fresco. Overall, Gusto is an excellent option for those looking for an expensive but memorable dining experience on the island."
+  },
+  {
+    "restaurantName": "Kaanubaru",
+    "address": "20 Fola Jinadu Crescent, Gbagada Phase I",
+    "tag": "Kaanubaru - Gbagada: Tasty well-seasoned food, prompt service, nice decor and ambiance, budget of 30000 per person, located on the mainland. casual, mainland",
+    "summary": "Kaanubaru is a restaurant located in Gbagada on the mainland, offering tasty well-seasoned food, prompt service, and a nice decor and ambiance. The restaurant has a casual vibe and is a great option for those looking for a laid-back dining experience. Keep in mind that the budget for dining here is around 30,000 naira per person. Overall, Kaanubaru is a fantastic option for those looking for great food in a casual setting.located on the mainland"
+  },
+  {
+    "restaurantName": "Avant Garde by Soul Chow",
+    "address": " 1 Polo Road, Ikoyi, Lagos, Island",
+    "tag": "Avant Garde by Soul Chow - Ikoyi: Stylish interior, well-presented food, attentive service, budget of 30000 per person, located on the island. Causal, expensive, great drinks, Burgers, Artsy, dine-in, knowledgeable waiters, tasty meatballs",
+    "summary": "Avant Garde by Soul Chow is an upscale restaurant located in Ikoyi on the island, offering a stylish and sophisticated interior, along with a wide selection of well-presented food and great drinks. The restaurant has an artsy and modern vibe and is perfect for a date night or a night out with friends. While it is a bit on the expensive side, with a budget of around 30,000 naira per person, the quality of the food, drinks, and service make it worth the cost. The menu includes a variety of options, including tasty burgers, meatballs, and sushi. With its prime location and excellent atmosphere, Avant Garde by Soul Chow is definitely one of the best places on the island for a memorable night out."
+  },
+  {
+    "restaurantName": "Bamboo Lounge and Guest House",
+    "address": " 38 Oduduwa Way, Ikeja GRA, Lagos, Mainland",
+    "tag": "Bamboo Lounge and Guest House - Ikeja GRA: Great spot for drinks and chill vibe, impressive ambience with lovely outdoor seating, budget of 7500 per person, located on the mainland. Casual, cheap, outdoor eating, great for shisha, great vibes, good for after work get-together, budget friendly",
+    "summary": "Bamboo Lounge and Guest House is a casual spot located in Ikeja GRA on the mainland, perfect for a chill and relaxing evening with friends. The outdoor seating area offers a great ambiance with plenty of space to enjoy your drinks and meals. The restaurant is particularly known for its shisha options, making it a great spot for those who enjoy hookah. With its laid-back atmosphere and good vibes, Bamboo Lounge is a great choice for after-work get-togethers. And the best part? It is budget-friendly, with a cost of around 7500 naira per person. Whether you're looking for a quick drink or a full meal, Bamboo Lounge is a great option for a casual and affordable night out. located on the mainland"
+  },
+  {
+    "restaurantName": "Black Olive",
+    "address": "63 Awolowo Road, Ikoyi, Lagos, Island",
+    "tag": "Black Olive - Ikoyi: Pleasant atmosphere with modern decor, comfortable seating, variety of options, budget of 15000 per person, located on the island. Casual, upscale, friendly staff, private dining room available, decent for pictures",
+    "summary": "Black Olive is an upscale restaurant located in Ikoyi on the island, perfect for those looking for a sophisticated dining experience. The restaurant boasts a pleasant and casual atmosphere with modern decor, comfortable seating, and friendly staff. Additionally, there is a private dining room available for those looking for a more intimate setting. With a budget of around 15000 naira per person, Black Olive offers a variety of menu options to choose from. The restaurant is also decent for taking pictures, making it a great spot for special occasions or just a night out with friends."
+  },
+  {
+    "restaurantName": "Black Pepper Steakhouse",
+    "address": "Eko Pearl Tower, Eko Atlantic, Victoria Island, Lagos, Island",
+    "tag": "Black Pepper Steakhouse - Eko Atlantic: Modern and sophisticated ambience, good service, inconsistent food quality, limited menu options, budget of 38000 Naira per person, located on the island. eko atlantic, good for group dining,great for steak, very expensive, difficult to get to, dress code, great outdoor space for pictures, good for outdoor wedding reception, private lounge available",
+    "summary": "Black Pepper Steakhouse is a luxurious restaurant located in the Eko Atlantic area on the island, making it a bit difficult to access but well worth the trip for those seeking a top-notch dining experience. The restaurant boasts a modern and sophisticated ambience with a dress code, making it perfect for special occasions or a night out with a loved one. With a budget of around 40000 Naira per person, Black Pepper Steakhouse is very expensive, but is great for group dining and offers a fantastic selection of steaks that are sure to satisfy your cravings. The menu options are somewhat limited, but the good service more than makes up for it. The restaurant also offers a private lounge available for those who desire a more intimate setting. Additionally, there is a great outdoor space available for taking pictures, making it a great spot for outdoor wedding receptions or other special events."
+  },
+  {
+    "restaurantName": "CAFE DE FLORE",
+    "address": "12 Glover Road, Ikoyi, Lagos",
+    "tag": "Cafe de Flore in Ikoyi offers an upscale French-inspired dining experience with a beautiful ambiance and attentive service, albeit with a high budget of around 30000 Naira per person, ideal for capturing great pictures.",
+    "summary": "Cafe de Flore, located in Ikoyi on the island, offers a beautiful and elegant atmosphere, making it a great spot for pictures. The French-inspired menu features well-prepared food, served by efficient and attentive staff. Keep in mind that the budget here is quite expensive, around 30000 Naira per person. The dress code is smart casual and adds to the great ambience. Overall, Cafe de Flore is a wonderful option for those looking for an upscale dining experience."
+  },
+  {
+    "restaurantName": "Ci Gusta",
+    "address": " Ibiyinka Olorunbe Close, off Amodu Ojikutu Street, Victoria Island",
+    "tag": "Ci Gusta - VI (Victoria Island): Beautiful decor, delicious Italian cuisine, generous portions, prompt service, high prices, budget of 30000 per person, located on the island. coffee shop,very expensive,clean and open interior. great for salads, delicious fresh pastry, average pasta, italian restaurant, casual, brunch",
+    "summary": "Ci Gusta, located in VI (Victoria Island) on the island is a coffee shop with a clean and open interior, perfect for a casual brunch or lunch. While the prices are quite expensive, the quality of the food is definitely worth it. The salads are great, and the fresh pastries are delicious. Overall, it's an Italian restaurant with a casual atmosphere. The service is prompt, and the portions are generous. Keep in mind that the budget is around 30,000 Naira per person. It's located on the island and definitely worth a visit if you're looking for a high-end dining experience"
+  },
+  {
+    "restaurantName": "Cilantro",
+    "address": "7 Musa Yar’adua Street, Victoria Island",
+    "tag": "Cilantro - VI (Victoria Island): Indian restaurant with pleasant ambiance and comfortable seating, budget of 12000 per person, located on the island.  indian,Great value for money, large portions, pleasant ambience, great outdoor dining, mozzarella naan, generous portions, continental dishes, casual, budget friendly",
+    "summary": "Cilantro, located in VI (Victoria Island) on the island is an Indian restaurant that offers great value for money. The restaurant has a pleasant ambiance with comfortable seating and is perfect for a casual dining experience. The budget-friendly menu is around 12,000 Naira per person, making it a great option for those on a budget. The portions are generous, and the outdoor dining area is great for enjoying the weather while you eat. One of the must-try dishes is the mozzarella naan, which is delicious. In addition to Indian cuisine, the restaurant also serves continental dishes. Overall, it's a great place to enjoy some flavorful food without breaking the bank."
+  },
+  {
+    "restaurantName": "Crust Cafe",
+    "address": "5 Fola Osibo Road, Lekki Phase I",
+    "tag": "Crust Cafe - Lekki: Casual and welcoming atmosphere, variety of dishes including sandwiches, salads, and pastries, reasonable prices and generous portions, budget of 12000 per person located on the island. good pancakes, great milkshakes, cafe, great customer service, knowledgeable waiters, American brunch, casual dining,",
+    "summary": "Crust Cafe, located in Lekki on the island, is a great spot for a casual dining experience. The cafe has a welcoming atmosphere and friendly staff who provide great customer service. The knowledgeable waiters are always happy to help you navigate the menu, which features a variety of dishes including sandwiches, salads, pastries, and American brunch favorites like good pancakes. Be sure to try their great milkshakes which are a must-have. The prices are reasonable and the portions are generous, making it a great option for those on a budget. It's a casual dining spot with a budget of around 12,000 Naira per person. Overall, Crust Cafe is a great place to enjoy a delicious meal and some great milkshakes with friends and family."
+  },
+  {
+    "restaurantName": "CREPAWAY",
+    "address": "1089B Adeola Odeku Street, Victoria Island, Lagos",
+    "tag": "CREPAWAY - VI (Victoria Island): Nice ambience, trendy decor, decent food, friendly service, reasonable prices, located on the island with a budget of 15000 per person. kids corner, casual, vibrant ambience, impressive decor,well trained staff, better for groups, brunch ",
+    "summary": "CREPAWAY, located in VI (Victoria Island) on the island, is a great casual dining spot with a vibrant ambiance and impressive decor. The restaurant features a kid's corner, making it a great option for families. The well-trained staff provides friendly service, making your dining experience comfortable and enjoyable. The menu offers decent food with a focus on crepes, and it's a great option for groups, particularly for brunch. The prices are reasonable with a budget of around 15,000 Naira per person. Overall, CREPAWAY is a great place to relax and enjoy some tasty crepes with friends and family in a trendy and welcoming atmosphere."
+  },
+  {
+    "restaurantName": "HOV Lounge",
+    "address": "8 Wole Olateju Cres, Lekki Phase I, Lagos",
+    "tag": "HOV Lounge - Lekki Phase I: Pleasant ambiance, but subpar food and drinks, slow service, budget of 30000 per person, located on the island. modern interior, great ambience, waterfront view, beach,very expensive",
+    "summary": "HOV Lounge, located in Lekki Phase I on the island, is a beachfront restaurant with a modern interior and great ambiance. The waterfront view makes for a relaxing and enjoyable dining experience. However, the food and drinks are expensive and subpar compared to the high prices. The service can also be slow at times. Keep in mind that the budget is around 30,000 Naira per person. Overall, HOV Lounge is a great place to enjoy the scenery and ambiance, but be prepared for the high prices and potentially slow service."
+  },
+  {
+    "restaurantName": "Godaïf Village",
+    "address": "Casa Asmarina, 26B Turnbull Rd, Ikoyi",
+    "tag": "Godaïf Village - Ikoyi: Nice ambiance and decor, friendly staff, concerns about food quality, budget of 20000 Naira per person, located on the island. great decor, great ambience, casual, Ethiopian food, expensive, great service, cafe to work from",
+    "summary": "Godaïf Village, located in Ikoyi on the island, is a casual restaurant with great decor and ambiance. The restaurant features Ethiopian cuisine, which is a must-try for those who enjoy new and exciting flavors. However, keep in mind that the prices are expensive with a budget of around 20,000 Naira per person. The friendly staff provides great service, ensuring that your dining experience is comfortable and enjoyable. Overall, Godaïf Village is a great place to enjoy some delicious Ethiopian food in a great ambiance."
+  },
+  {
+    "restaurantName": "HSE Gourmet",
+    "address": "25 Babatope Bejide Crescent, Lekki Phase I, Lagos, Island",
+    "tag": "HSE Gourmet - Lekki Phase I: Classy ambiance, underwhelming food, average service, budget of 40000 per person, located on the island. elite restaurant, best restaurant, great food, great ambience, good value for money, fusion restaurant, good cocktails, casual, great for group",
+    "summary": " HSE Gourmet, located in Lekki Phase I on the island, is an elite restaurant and one of the best dining spots in the area. The restaurant features a fusion cuisine that offers great food and good value for money. The classy ambiance and great ambiance make it a perfect place for casual dining. The restaurant is also great for groups, with a friendly and attentive staff that provides excellent service. The cocktails are also noteworthy and complement the dishes well. Keep in mind that the budget is around 30,000 Naira per person. Overall, HSE Gourmet is a great place to experience some of the best dining in the area in a relaxed and casual environment."
+  },
+  {
+    "restaurantName": "ILÉ EROS",
+    "address": "14 Kafayat Abdulrasaq, off Fola Osibo Rd, Lekki Phase I, Lagos",
+    "tag": "ILÉ EROS - Lekki Phase I: Unique dining experience with beautiful decor and ambiance, Average food quality, prompt service, budget of 15000 per person, located on the island. great service, knowledgeable waiters",
+    "summary": "ILÉ EROS, located in Lekki Phase I on the island, offers a unique dining experience with beautiful decor and ambiance. It is quite affordable and The service is prompt and the knowledgeable waiters provide great service to the diners. However, the food quality is average despite the beautiful ambiance. Keep in mind that the budget is around 15,000 Naira per person. Overall, ILÉ EROS is a great place to enjoy a unique dining experience with great service"
+  },
+  {
+    "restaurantName": "Indigo Bar Restaurant & Suite",
+    "address": "242B Muri Okunola Street, Victoria Island",
+    "tag": "Indigo Bar Restaurant & Suite - VI (Victoria Island): Modern and chic decor, impressive menu selection, well-prepared food, extensive drinks menu, attentive service, budget of 20000 per person, located on the island. Indian, Chinese, good for pictures, knowledgeable waiters",
+    "summary": "Indigo Bar Restaurant & Suite, located in Victoria Island (VI) on the island, offers a modern and chic decor with an impressive selection of Indian and Chinese cuisine. The well-prepared food, extensive drinks menu, and knowledgeable waiters make it a great choice for both dining and drinks. The restaurant is also a great spot for taking pictures to capture the stylish decor. Keep in mind that the budget is around 20,000 Naira per person. Overall, Indigo Bar Restaurant & Suite is a great choice for those looking to enjoy Indian and Chinese cuisine in a trendy and modern setting, with excellent service and a wide range of drinks to choose from."
+  },
+  {
+    "restaurantName": "Kaly Restaurant & Bar Lounge",
+    "address": "7th Floor, 1235B Akin Adesola off Ahmadu Bello Way, Victoria Island",
+    "tag": "Kaly Restaurant & Bar Lounge - VI (Victoria Island): Great atmosphere, delicious food, well-made drinks, prompt service, located on the island with a budget of 50000 Naira per person. fine dining, great ambience, great for pictures, bar lounge, best restaurant, great service, knowledgeable waiters, very expensive, date night",
+    "summary": "Kaly Restaurant & Bar Lounge, located in Victoria Island (VI) on the island, offers a fine dining experience with a great atmosphere and delicious food. The bar lounge also serves well-made drinks, making it a great spot for a date night. The ambience is great for pictures and the knowledgeable waiters provide excellent service to diners. Keep in mind that the budget is around 50,000 Naira per person, making it a very expensive option. Overall, Kaly Restaurant & Bar Lounge is one of the best restaurants in the area, with great service, a wonderful atmosphere, and delicious food and drinks, making it a perfect spot for a special occasion or a romantic date night."
+  },
+  {
+    "restaurantName": "Ki Bar & Kitchen",
+    "address": "31A Oju Ologbun Close, Victoria Island",
+    "tag": "Ki Lagos - VI (Victoria Island): Pleasant ambiance, flavorful food, attentive service, with prices on the higher side, budget of 16000 Naira per person, located on the island. Japanese, sushi, great ambience, great service, intimate atmosphere, date night, casual, great for groups",
+    "summary": "Ki Lagos, located in Victoria Island (VI) on the island, is a Japanese restaurant that specializes in sushi. The restaurant has a great ambience that's perfect for an intimate date night or a casual meal with friends. The service is attentive and the atmosphere is perfect for groups. The prices are reasonable, with a budget of around 16,000 Naira per person, but the flavorful food and excellent service make it worth it. Overall, Ki Lagos is a great restaurant for anyone looking to enjoy some delicious Japanese cuisine in a great atmosphere with excellent service."
+  },
+  {
+    "restaurantName": "Kuramo Sports Cafe",
+    "address": "Plot 1415, Adetokunbo Ademola Street, Victoria Island",
+    "tag": "Kuramo Sports Cafe - VI (Victoria Island): Modern and spacious atmosphere with a diverse food selection including well-prepared grilled items, extensive drink options, and prompt and attentive service. Budget of 13000 Naira per person. Located on the island. buffet option, local dishes",
+    "summary": "Kuramo Sports Cafe, located in Victoria Island (VI) on the island: Modern and spacious atmosphere with a diverse food selection including well-prepared grilled items, local dishes, and buffet options, extensive drink options, and prompt and attentive service. Budget of 13000 Naira per person. Located on the island."
+  },
+  {
+    "restaurantName": "La Chaumiere",
+    "address": "1384 Tiamiyu Savage, Victoria Island, Lagos",
+    "tag": "La Chaumiere - VI (Victoria Island): Charming and sophisticated ambiance with a variety of well-prepared and flavorful French dishes. Impressive wine list, attentive and knowledgeable service. Budget of 25000 Naira per person. Located on the island. French dining, pastry, coffee, tacos, breakfast, brunch, good ambience",
+    "summary": "La Chaumiere, located in Victoria Island (VI) on the island is a Charming and sophisticated ambiance with a variety of well-prepared and flavorful French dishes. Impressive wine list, attentive and knowledgeable service. Budget of 15000 Naira per person, They also offer a selection of great pastry and coffee options and are an excellent affordable choice for breakfast or brunch"
+  },
+  {
+    "restaurantName": "Maple Restaurant",
+    "address": "9 Otunba Adedoyin Ogungbe Crescent, Lekki Phase I",
+    "tag": "Maple - Lekki Phase I: Tasteful and elegant decor with an inviting atmosphere. Menu features a variety of dishes with impressive presentation. Prompt and attentive service. Some items are pricey with portion sizes not very generous. Budget of 16000 Naira per person. Located on the island. casual dining, date night, brunch, pancakes, cosy vibe",
+    "summary": "Maple, located in Lekki Phase I on the island offers a Casual and cosy atmosphere with tasteful and elegant decor. their Menu features a variety of dishes including brunch favorites like pancakes, and some items can be pricey. Great for a date night or a relaxed brunch. Prompt and attentive service. Budget of 25000 Naira per person."
+  },
+  {
+    "restaurantName": "Moonshine Cafe",
+    "address": "7A Admiralty Rd, Lekki Phase I, Lagos",
+    "tag": "Moonshine Cafe - Lekki Phase I: Lovely and inviting atmosphere with a rustic interior, diverse menu with well-prepared and tasty food, good selection of cocktails and beverages, prompt and attentive service. Budget of 20000 Naira per person. Located on the island. banga, casual, asun pasta",
+    "summary": "Moonshine Cafe, located in Lekki Phase I on the island, offers a casual dining experience with a lovely and inviting atmosphere with a rustic interior. It has a diverse menu that includes great asun and pasta dishes, which are well-prepared and tasty. There is also a good selection of cocktails and beverages to choose from. The service is prompt and attentive. Keep in mind that the budget is around 20,000 Naira per person. Overall, Moonshine Cafe is a great place to enjoy a casual meal with friends and family."
+  },
+  {
+    "restaurantName": "Norma",
+    "address": "6 Kafi Street, Alausa, Ikeja ",
+    "tag": "Norma Ikeja: Warm ambiance with African-European fusion dishes, attentive service, but prices can be on the higher side with a budget of 15000 Naira per person. Located on the mainland. suya, local food, great service, international food, Ikeja, mainland",
+    "summary": "Located in Ikeja on the mainland, Norma offers a warm and inviting ambiance with a blend of African and European fusion dishes. The knowledgeable and attentive service staff provide excellent service, and the restaurant also serves great suya and other local dishes in addition to their international menu. However, the prices are affordable with a budget of around 10,000 Naira per person. Overall, Norma is a great choice for those looking for a unique dining experience with great service and a mix of international and local flavors. located on the mainland"
+  },
+  {
+    "restaurantName": "Oceans5 by Riviera",
+    "address": "20 Elsie Femi Pearse Street, Victoria Island, Lagos",
+    "tag": "Oceans5 by Riviera - VI (Victoria Island): Inconsistent food and service, extensive menu, great ambiance, with a budget of 17000 Naira per person, located on the island. great for pictures",
+    "summary": "Oceans5 by Riviera, located in victoria island (VI) on the island, offers a great ambiance and is perfect for taking pictures. However, the food and service can be inconsistent, despite the extensive menu. The budget is around 17000 Naira per person."
+  },
+  {
+    "restaurantName": "Orile Lekki",
+    "address": "2 Ichie Chris Street, off Abeke Animashaun, Lekki Phase I ",
+    "tag": "Orile Lekki - Lekki Phase I: Good atmosphere, tasty food, reasonably priced, small portions, with a budget of 20000 Naira per person, located on the island. great staff, guinea fowl, Yoruba food, local food, shisha spot",
+    "summary": "Orile Lekki, located in Lekki Phase I on the island, offers a good atmosphere and serves tasty Yoruba and local dishes at a reasonable price. The staff is great and the restaurant also doubles as a shisha spot. However, keep in mind that the portions can be small for the budget of 20000 Naira per person. If you're looking to try something unique, their guinea fowl dish comes highly recommended. Overall, Orile Lekki is a great spot for those who enjoy local cuisine and shisha."
+  },
+  {
+    "restaurantName": "KOI",
+    "address": "3 Babatunde Jose Street, Victoria Island, Lagos.",
+    "tag": "Koi Japanese Sushi - Victorial Island(VI): offers fresh sushi and sashimi, delicious hot dishes, and a good drink selection in a stylish atmosphere. With attentive service and great ambiance for pictures, it's a bit pricey with budget of 20000 per person but perfect for a satisfying Japanese meal, ideal for date night or clubhouse gatherings.",
+    "summary": "Koi Japanese Sushi in Lagos offers a stylish and modern atmosphere with fresh and expertly prepared sushi and sashimi, delicious hot dishes, and a good selection of cocktails and sake. With attentive service and great ambiance for pictures, it's the perfect spot for a satisfying Japanese meal, albeit a bit pricey, ideal for date night or clubhouse gatherings."
+  },
+  {
+    "restaurantName": "OX Restaurant & Lounge",
+    "address": "31 Kofo Abayomi Street, Victoria Island",
+    "tag": "Orile Lekki - Lekki Phase I: Good atmosphere, tasty food, reasonably priced, small portions, with a budget of 20000 Naira per person, located on the island.",
+    "summary": "OX in Victoria Island: Beautiful and modern ambience, with an average service. Expect to pay around 32000 Naira per person, located on the island."
+  },
+  {
+    "restaurantName": "Pitstop Lagos",
+    "address": " 92A Younis Bashorun Street, Victoria Island, Lagos",
+    "tag": "Pitstop Lagos - VI (Victoria Island): Cozy ambiance, decent food, good service, with an average budget of 15000 Naira per person, located on the island. casual dining, great for groups, good outdoor seating, games, budget friendly",
+    "summary": "Pitstop Lagos, located in VI (Victoria Island) on the island is a great spot for casual dining and is budget-friendly, with an average budget of 15000 Naira per person. The cozy ambiance and good service make it a great spot for groups. Additionally, the outdoor seating area and games available make it a perfect spot for a fun and relaxed hangout."
+  },
+  {
+    "restaurantName": "Plan.taine",
+    "address": "10a Adetokunbo Ademola street, Victoria Island, Lagos",
+    "tag": "Plan.taine Lagos - VI (Victoria Island): Modern decor, vegetarian options, attentive service, with prices on the higher side, budget of 30000 Naira per person, located on the island. Carribean food, great ambience",
+    "summary": "Plan.taine Lagos, located in VI (Victoria Island), offers a modern and chic atmosphere with a focus on vegetarian cuisine. They also have some Caribbean food options. The service is attentive, but prices can be on the higher side, with a budget of 25000 Naira per person. The ambiance is great with a modern decor. Overall, Plan.taine Lagos is a great place to enjoy vegetarian and Caribbean dishes in a lovely atmosphere."
+  },
+  {
+    "restaurantName": "Sketch Restaurant & Cafe",
+    "address": "5 Adeola Hopewell Street, Victoria Island",
+    "tag": "Sketch Lagos - VI (Victoria Island): Chic atmosphere with fusion cuisine and high prices, good quality food, attentive service, budget of 30000 Naira per person, located on the island. great ambience, great for pictures, date night",
+    "summary": "Sketch Lagos, located in VI (Victoria Island) on the island, is a great spot for a romantic date night with its chic atmosphere and impressive ambience that makes it perfect for pictures. The fusion cuisine is of good quality and comes at a high price, but the attentive service is worth it. The budget is around 25000 Naira per person"
+  },
+  {
+    "restaurantName": "Slice",
+    "address": "19 Ologun Agbaje Street, Victoria Island",
+    "tag": "Slice Victoria Island: Heavenly pizzas, top-notch drinks, beautiful ambience, excellent service, high prices, with a budget of 35000 Naira per person, located on the island. good cocktails, great ambience, date night, very expensive",
+    "summary": "Slice  located in Victoria Island (VI) on the island offers heavenly pizzas and good cocktails in a beautiful and romantic ambience, perfect for date nights. The service is excellent, but keep in mind that the prices are quite high with a budget of 35000 Naira per person"
+  },
+  {
+    "restaurantName": "Thai Thai",
+    "address": "Flat 3, 16 Kofo Abayomi Street, Victoria Island",
+    "tag": "Thai Thai Lagos - VI (Victoria Island): Vibrant and colourful atmosphere, flavourful Thai cuisine, with friendly and prompt service. Portion sizes are small for the price, budget of 22000 Naira per person, located on the island. thai, dumplings, good service, not great for pictures, bao buns",
+    "summary": "Thai Thai Lagos, located in VI (Victoria Island), offers a vibrant and colourful atmosphere with flavourful Thai cuisine. The restaurant serves great dumplings and bao buns, and the service is friendly and prompt. However, it may not be the best spot for pictures. Keep in mind that the portion sizes are small for the price, and the budget is around 15000 Naira per person."
+  },
+  {
+    "restaurantName": "THE OBSERVATORY",
+    "address": "15A Admiralty Way, Lekki Phase One, Lagos.",
+    "tag": "THE OBSERVATORY - Lekki Phase One: A modern and trendy restaurant with a lovely atmosphere and serene outdoor seating. The food and drinks, while pricey, are below average in taste and quality, with poorly mixed cocktails and under-seasoned dishes. The service is average, but the ambiance makes it a decent spot for hanging out with friends or hosting a small gathering. A budget of 15000 Naira per person is recommended. great for groups, smokehouse, fusion, Asian, good for pictures",
+    "summary": "THE OBSERVATORY in Lekki Phase One: A trendy and modern smokehouse with a great atmosphere and serene outdoor seating. The menu features fusion cuisine with a mix of Asian and American flavours, but the food and drinks can be quite pricey and average in taste and quality. The service is decent, but the ambiance makes it a good spot for hosting small gatherings or hanging out with friends. It's also a great place for taking pictures. A budget of 15000 Naira per person is recommended."
+  },
+  {
+    "restaurantName": "SLoW",
+    "address": "2 Musa Yar' Adua Street, VI, Lagos.",
+    "tag": "Slow Restaurant - Victoria Island offers a beautiful and serene atmosphere with top-notch food, though a reservation is imperative with a budget of 25000 Naira per person, perfect for a peaceful and relaxing dining experience among Lagos' finestlocated on the island .great drinks, great cocktails,great ambience, date night, reservation, great seafood, fine dining, best restaurant, Latin America, live band",
+    "summary": "Slow Restaurant located in Victoria Island(VI) on the island is a must-visit for those seeking a fine dining experience with a touch of Latin American flavor. The food is somewhat pricey with a budget of 25000 Naira per person. The beautiful and serene atmosphere, complete with cozy indoor seating and a lovely outdoor space with a great view, is perfect for a romantic date night or a relaxing evening out with friends. It is highly recommended to make a reservation in advance to secure your spot. The food is top notch, with a great selection of seafood and other dishes that will satisfy any craving. The cocktails are also exceptional and not to be missed. In addition to the great food and drinks, the ambiance is further elevated by the presence of live music. Slow Restaurant truly lives up to its reputation as one of the best restaurants in Lagos."
+  },
+  {
+    "restaurantName": "The Seetle",
+    "address": "9 Keffi Street, Off Awolowo Road, Ikoyi.",
+    "tag": "The Seetle - Ikoyi: Chic ambiance with a variety of African and continental cuisine at slightly high prices, with a budget of 15000 Naira per person, located on the island.",
+    "summary": "The Seetle located in Ikoyi on the island has a  Casual ambiance with a variety of African and continental cuisine at affordable prices, with a budget of 15000 Naira per person. Their plantain hummus and great pasta are must-tries, as well as their English breakfast. They also offer a good selection of cocktails. Located on the island."
+  },
+  {
+    "restaurantName": "The Shark Express",
+    "address": "Aaron Mall, 12 Olubunmi Owa Street, Lekki Phase I",
+    "tag": "The Shark Express - Lekki Phase 1: Affordable seafood, casual atmosphere, efficient service, lacking in decor, with a budget of 20000 Naira per person, located on the island. seafood, casual dining, rooftop, seafood boil, great service",
+    "summary": "The Shark Express in Lekki Phase 1 on the island offers affordable and delicious seafood in a casual and laid-back atmosphere. The service is efficient and attentive, and the restaurant has a great rooftop seating area. The decor is lacking, but the focus is on the tasty seafood dishes, including their popular seafood boil. The budget per person is around 20000 Naira"
+  },
+  {
+    "restaurantName": "The Shed",
+    "address": "1 Wole Olateju Crescent, off Admiralty Way, Lekki Phase 1",
+    "tag": "The Shed Lekki - A trendy and warm atmosphere with efficient service, great grilled meats and seafood, delicious cocktails, with a higher price point of 27000 Naira per person, located on the island. date night, fine dining, seafood, great ambience, great staff, great service, great for pictures, elite restaurant, salmon",
+    "summary": "The Shed Lekki is an elite seafood and grill restaurant with a fine dining atmosphere, perfect for a romantic date night. The ambiance is superb with a great vibe, and the staff are attentive and friendly. The restaurant offers excellent grilled meats and seafood, including the must-try salmon. Delicious cocktails are also available. It's a bit pricey, with a budget of 27000 Naira per person, but the experience is worth it. The restaurant is great for taking pictures and is highly recommended for those looking for a top-notch dining experience."
+  },
+  {
+    "restaurantName": "Turaka",
+    "address": "1637, Adetokunbo Ademola, Victoria Island ",
+    "tag": "Turaka Lagos - VI (Victoria Island): Vibrant and welcoming African restaurant with delicious food, attentive service, and a warm and inviting ambiance, with a budget of 23000 Naira per person and located on the island.  outdoor seating, Ebony Life Place, platter",
+    "summary": "Turaka Lagos, located in VI (Victoria Island) on the island is a Vibrant and welcoming African restaurant with delicious food, attentive service, and a warm and inviting ambiance. The restaurant also features great outdoor seating and is located within the Ebony Life Place, making it a perfect spot for a night out. Don't miss the chance to try their signature platter. The budget per person is around 20000 Naira"
+  },
+  {
+    "restaurantName": "Woks at Blowfish",
+    "address": "17 Oju Olobun Street, Victoria Island, Lagos.",
+    "tag": "Woks at Blowfish - VI (Victoria Island): Modern and chic decor, reasonable prices, Asian-inspired dishes, with some noise and slow service issues, budget of 12000 Naira per person, located on the island.Asian, Chinese, kung pao chicken, budget friendly, cheap Chinese",
+    "summary": "Woks at Blowfish, located in VI (Victoria Island) on the island is a trendey restaurant with Modern and chic decor, budget-friendly prices, and a focus on Asian and Chinese cuisine, featuring dishes such as kung pao chicken. While there may be some noise and slow service issues, it remains a great spot for cheap Chinese eats, with a budget of 12000 Naira per person"
+  },
+  {
+    "restaurantName": "Ziya Delicacy Boutique",
+    "address": "26B Oju Olobun Close, Victoria Island",
+    "tag": "Ziya Delicacy Boutique - Victoria Island: A fusion of African and Middle Eastern cuisine, warm and inviting ambiance, beautifully presented dishes, perfect for a special occasion or a date night, with a budget of 17000 Naira per person, located on the island. deli, great pastry, dessert, macarons, brunch, coffee, fusion, Middle Easten, breakfast, sandwiches,cafe to work from",
+    "summary": "Ziya Delicacy Boutique in Victoria Island (VI) on the island has a Warm and inviting ambiance with a fusion of African and Middle Eastern cuisine. Beautifully presented dishes make it perfect for a special occasion or a date night. They offer a great selection of deli items, pastries, desserts, and macarons. Also, it is a great spot for brunch, coffee, or to grab a sandwich. The budget is around 17000 Naira per person."
+  },
+  {
+    "restaurantName": "Zen2go",
+    "address": "6C Adeleke Adedoyin St., Victoria Island",
+    "tag": "Zen2Go - VI (Victoria Island): A unique fusion of Asian and Nigerian cuisine in a modern and welcoming atmosphere with friendly service and prices averaging 22000 Naira per person, located on the island, Lebanese, great ambience, jollof rice, roasted chicken, volcano chicken strips",
+    "summary": "Zen2Go, located in VI (Victoria Island) on the island, offers a unique blend of Lebanese and Nigerian cuisine in a modern and chic atmosphere. The ambience is great, and the service is friendly and efficient. Must-try dishes include the flavorful jollof rice, tender roasted chicken, and the delicious volcano chicken strips. Prices are reasonable, with an average cost of 20000 Naira per person."
+  },
+  {
+    "restaurantName": "RSVP Lagos",
+    "address": "9 Eletu Ogabi St, Victoria Island 101001, Lagos",
+    "tag": "RSVP Lagos - VI (Victoria Island): Warm and modern ambiance, flavorful food, and attentive service, with a budget of 20000 Naira per person, located on the island. date night, elite restaurant, best restaurant, great ambience, great service, great food, fine dining",
+    "summary": "RSVP Lagos, locaed in VI (Victoria Island) on the island can be described as epitome of a fine dining experience with a warm and modern ambiance, flavorful food, and attentive service. This elite restaurant is perfect for a romantic date night or a special occasion. With a reputation as one of the best restaurants in Lagos, RSVP offers a memorable dining experience with great ambience and top-notch service. The prices are on the higher side, with a budget of 25000 Naira per person, but the exquisite food and dining experience make it worth it."
+  },
+  {
+    "restaurantName": "Z Kitchen",
+    "address": "19 Saka Tinubu St, Victoria Island 106104, Lagos",
+    "tag": "Z Kitchen - VI (Victoria Island): Beautiful ambiance, extensive menu, slightly pricey but with good food, a budget of 20000 Naira per person, located on the island. date night, great ambience, great service, great food, fine dining",
+    "summary": "Z Kitchen, located in VI (Victoria Island) is a perfect spot for a romantic date night, with a beautiful and sophisticated ambiance, attentive service, and an  extensive menu of delicious dishes. Although slightly pricey, the quality of the food is worth it, making it a great choice for fine dining. The budget is around 25000 Naira per person"
+  },
+  {
+    "restaurantName": "The Harvest",
+    "address": " Block 26, Plot 10 Admiralty Way, Lekki Phase 1 105102, Lekki, Lagos.",
+    "tag": "The Harvest - Rustic Casual dining in Lekki Phase 1 with great burgers, solid pricing, and a budget of 15000 Naira per person, located on the mainland, casual dining, great burgers",
+    "summary": "The Harvest, located inLekki Phase 1 (Admiralty Way) on the island offers a Casual dining atmosphere with a rustic vibe, featuring great burgers and solidly priced food, although staff coordination can be improved. The budget is 15000 Naira per person"
+  },
+  {
+    "restaurantName": "Panarottis Admiralty Lagos",
+    "address": "Delakes Mall, Admiralty Way, Lekki Phase 1, Lagos",
+    "tag": "Panarottis Pizza -Lekki for family-friendly Italian cuisine, delicious pizza and pasta options, excellent specials, friendly staff, and affordable prices with a budget of 1000 Naira per person. located on the mainland, budget friendly",
+    "summary": "Panarottis Admiralty Lagos in Lekki Phase 1 offers delicious and affordable Italian food with great specials and play area facilities for kids. With friendly staff and an average service time, it's a great spot for a family dinner or casual meal with friends. A budget of 10000 Naira per person is reasonable."
+  },
+  {
+    "restaurantName": "Olaiya",
+    "address": " 109 Akerele St, Surulere, Lagos, Nigeria",
+    "tag": "Olaiya - surulereAffordable, no-frills local cuisine, prompt service, great value for money, popular buka in Surulere with budget of 1000 naira per person. located on the mainland",
+    "summary": "Olaiya, located in Surulere on the mainland is a no-frills restaurant with affordable and delicious local cuisine, perfect for swallow lovers on a tight budget. The restaurant offers prompt service and is a great value for money with a budget of 1000 naira per person. Must-try dishes include amala and pounded yam with a side of ewedu and gbegiri. Olaiya Surulere is a popular buka (street food spot) that should not be missed. located on the mainland"
+  },
+  {
+    "restaurantName": "Amoke Oge",
+    "address": "  50 Oguntolu St, Somolu 102216, Lagos",
+    "tag": "Amoke Oge in Somolu offers a budget-friendly and authentic buka experience serving delicious traditional Nigerian dishes like amala, pounded yam, and jollof rice. Great value for money and perfect for those seeking street food on the mainland.",
+    "summary": "Amoke Oge, located in Somolu is a budget-friendly and authentic buka experience with delicious traditional food such as amala, pounded yam, jollof rice, ewedu, and gbegiri, served promptly. This spot offers great value for money and is perfect for those looking for street food in a buka setting. Located on the mainland."
+  },
+  {
+    "restaurantName": "Commint Buka",
+    "address": "  Municipal Bus Stop, 26 Itire St, Surulere, Lagos",
+    "tag": "Commit Buka - Authentic street food experience at Commint Buka in Surulere with a variety of delicious swallows and sides, friendly staff, and great value for money at 2500 Naira per person. located on the mainland",
+    "summary": "Commint Buka, located in Surulere on the mainland is a popular and budget-friendly buka serving quality food and manned by friendly staff. It offers a variety of swallow options such as amala, pounded yam, and jollof rice, as well as delicious sides like ewedu, gbegiri, and moi moi. With a budget of 2500 Naira per person, it's a great value for money option for anyone looking for authentic street food in Surulere. located on the mainland"
+  },
+  {
+    "restaurantName": "University of Suya",
+    "address": "  113 Allen Ave, Allen, Ikeja, Lagos, Nigeria",
+    "tag": "University of Suya in Ikeja: popular, budget-friendly suya spot with signature spice mix and well-packaged street suya; prices around 2000 Naira per person, located on the mainland.",
+    "summary": "University of Suya, in Ikeja is a popular spot for a budget-friendly and delicious suya experience, with its signature spice mix and well-packaged street suya. Prices are around 2000 Naira per person, and it is located on the mainland."
+  },
+  {
+    "restaurantName": "Korede Spaghetti",
+    "address": "  172 Akerele St, Surulere 101245, Lagos",
+    "tag": "Budget-friendly takeout joint in Surulere and Akoka with quick and reasonable fast food options, famous for their spaghetti and must-try nimota and suya rice mix, also highlights their yam dishes. Prices around 2500 Naira per person. located on the mainland",
+    "summary": "Korede Spaghetti with locations in both Surulere, Akoka on the mainland is  A budget-friendly takeout joint known for its quick and reasonable fast food options. While they're famous for their spaghetti, the nimota and suya rice mix is a must-try. Other highlights include their yam dishes. Prices average around 2500 Naira per person located on the mainland"
+  },
+  {
+    "restaurantName": "Ocean Basket",
+    "address": "  35 Akin Adesola St, Victoria Island 106104, Lagos",
+    "tag": "Ocean Basket, premier seafood destination on VI (Victoria Island) offering delicious seafood platters, sushi, and cocktails. Warm ambiance with affordable options like jollof rice. Budget of 15000 Naira per person. located on the island",
+    "summary": "Ocean Basket, located in VI (Victoria Island) on the island is a premier seafood destination with a warm and welcoming ambiance, offering delicious seafood platters, sushi, and cocktails. Recommended budget of 15000 Naira per person, with affordable options like jollof rice and budget-friendly platters available"
+  },
+  {
+    "restaurantName": "Burg",
+    "address": "  11B Isaac John St, Ikeja GRA, Ikeja, Lagos",
+    "tag": "Burg Ikeja offers delicious takeout-only burgers and more at a budget-friendly price of 5000 Naira per person in Ikeja GRA on the mainland.",
+    "summary": "Burg Ikeja, located in Ikeja GRA on the mainland is a Budget-friendly and great value for money with a takeout-only option for their delicious burgers and more. The recommended budget is 5000 Naira per person located on the mainland"
+  },
+  {
+    "restaurantName": "Gypsys Restaurant and Bar",
+    "address": " 34a Gbolade Adebanjo St, Ilupeju 100252, Lagos",
+    "tag": "Located in Ilupeju on the mainland, Gypsys is a budget-friendly Indian restaurant known for its generous portions, friendly staff, and great value for money with a budget of 10,000 Naira per person.",
+    "summary": "Gypsys located in ilupeju on the mainland is considered one of the best Indian restaurants on the mainland, with generous portions, friendly staff, and budget-friendly prices. This casual dining restaurant is known for its great value for money, with a budget of 10000 Naira per person.located on the mainland"
+  },
+  {
+    "restaurantName": "White House Restaurant",
+    "address": " 9 Chapel St, Yaba, Lagos",
+    "tag": "White House Buka in Yaba offers authentic buka experience with delicious jollof rice at attractive 1500 Naira/person; great value for money option on the mainland.",
+    "summary": "White House Buka, located in Yaba offers an authentic buka experience on the Mainland with their delicious jollof rice at an attractive price of 1500 Naira per person, though the dining area could use some improvement. It's a great value for money option. located on the mainland"
+  },
+  {
+    "restaurantName": "Cactus Restaurant",
+    "address": " 20/24 Ozumba Mbadiwe Ave, Victoria Island 106104, Lagos",
+    "tag": "Cactus Lagos - a VI OG with consistently good food, wide menu options including pizza & burgers, strong salad selection, kids play area, and outdoor seating. Ideal for families with an average budget of 15000 Naira/person. located on the island",
+    "summary": "Cactus Lagos, located in VI (Victoria Island) on the island is a Lagos OG known for consistently good food, wide menu options including great pizzas and burgers, a strong salad selection, a play area for kids, and outdoor seating. It's a great option for families with children, and prices average around 15000 Naira per person."
+  },
+  {
+    "restaurantName": "Eric Kayser",
+    "address": "864a Bishop Aboyade Cole St, Victoria Island 106104, Lagos",
+    "tag": "Budget-friendly spot in VI with great ambience and pastry options, ideal for brunch or sandwich and Inssummaryram-worthy pictures. Must-try pasta and desserts. Budget: 15,000 Naira per person. located on the island",
+    "summary": "Eric Kayser located in Victoria Island (VI) is a budget-friendly, casual dining spot on the island that offers great pastry options and is perfect for those looking for a place to take Inssummaryram-worthy pictures. The ambience is great and the service is timely. It's an ideal spot for brunch, breakfast, or a sandwich. Their pasta options pack a pretty punch in terms of taste and their dessert options are just as solid. Overall, if you're looking for a spot that's great for pictures, has a great ambience, and offers delicious pastry, pasta, and dessert options, Eric Kayser is a strong contender with a budget of 15,000 Naira per person."
+  },
+  {
+    "restaurantName": "Rapa Nui",
+    "address": "Sol Oniru by the Boxmall, Oniru, Lagos",
+    "tag": "Rapa Nui, a beachfront Polynesian themed restaurant on the island with great view, offers tasty food at reasonable prices (15,000 per person budget) though the service can be slow. located on the island",
+    "summary": " Rapa Nui, is a Polynesian themed beachfront restaurant located on the island with a great view. The ambience is excellent, and the food is flavourful and tasty, especially the calamari. The prices are reasonable, with a budget of about 15,000 per person but the service can be slow and slightly disorganized. Overall, Rapa Nui is a must-visit spot if you're looking for a budget-friendly bite with a great view in Oniru."
+  },
+  {
+    "restaurantName": "La Taverna",
+    "address": "48 Balarabe Musa Cres, Victoria Island 23401, Lagos",
+    "tag": "La Taverna is a cozy and affordable Italian restaurant in VI, Lagos with great pizza and pasta options, and discounts on Wednesdays and Thursdays. Perfect for those on a budget with a budget of 15,000 per person. located on the island",
+    "summary": "La Taverna, located in Victoria Island (VI) on the island is an affordable Italian restaurant in Lagos with a cozy atmosphere that transports you to a small village in Italy. They offer delicious pasta and pizza dishes, as well as salads, soups, and tacos, with a budget of 15,000 per person. On Wednesdays and Thursdays, they offer discounts on pizza and pasta, respectively, making it a great budget-friendly option on the island. The service is prompt and the waiters are courteous. We highly recommend checking out La Taverna for a taste of Italy in Lagos."
+  },
+  {
+    "restaurantName": "El Padrino",
+    "address": "256 Etim Inyang Crescent, Victoria Island, Lagos",
+    "tag": "El Padrino, a cozy Mexican restaurant in VI with a wide variety of taco fillings and budget-friendly options (around 10,000 per person), perfect for families and groups looking for a quick casual dining spot. located on the island",
+    "summary": "El Padrino, located in Victoria Island (VI) on the island is a Mexican restaurant that specializes in tacos, with a wide variety of fillings to choose from, including goat meat, chicken, fish, beef, and vegetarian options. In addition to tacos, they also offer other Mexican dishes such as quesadillas, guacamole, and chips and salsa. The restaurant has a cozy and warm ambiance, although the space is a bit small. It's a great option for families with kids, and for groups, as they offer budget-friendly options with a budget of about 10,000 naira per person. The service is also quick and the waiters are cheerful. All in all, if you're looking for a casual dining spot for a quick Mexican bite, El Padrino is a great choice."
+  },
+  {
+    "restaurantName": "Toasties by Biscuit Bone Blog",
+    "address": "113 Awolowo Rd, Ikoyi,  Lagos",
+    "tag": "Toasties by Biscuit Bone Blog in Ikoyi offers a cozy ambience and prompt service, specializing in budget-friendly sandwiches and tacos for breakfast or lunch, with a budget of 10,000 Naira per person. located on the island",
+    "summary": "Toasties by Biscuit Bone Blog, located in Ikoyi on the island might very well be the home of sandwiches and tacos in Lagos. The ambience is cozy, dim and simple and the waiters and the service is prompt and commendable. Overall, if you are looking for a budget-friendly breakfast or lunch option with a focus on sandwiches and tacos with a budget of 10,000 per person, then Toasties is a great choice the restaurant has a great ambience that's perfect for casual dining."
+  },
+  {
+    "restaurantName": "Sushiholic x BBQholic",
+    "address": "Block 26, plot, Delakes Mall, 8 Admiralty Way, Eti-Osa 105102, Lekki, Lagos",
+    "tag": "Located in on the island (Lekki), Sushiholic x BBQholic is a fusion restaurant offering a diverse menu blending sushi and barbecue with options like mayo shrimp rolls, tacos, burgers, and steak. Though on the expensive side with a budget of about 25,000 Naira per person, it provides a cozy and intimate ambience perfect for date nights, with knowledgeable waiters and commendable service.",
+    "summary": "Sushiholic x BBQholic, located in Lekki, on the island has a diverse menu that blends sushi and barbecue, making it a fusion restaurant with options like mayo shrimp rolls, tacos, burgers, and steak. While the space may be a bit small, the cozy and intimate ambience is perfect for date nights. The waiters are knowledgeable and provide commendable service. It's worth noting that this restaurant is on the expensive side with a budget of about 25,000 Naira per person, but it's a great spot to enjoy Asian cuisine with your loved one. Overall, if you're looking for a fusion restaurant with a diverse menu, good service, and a great ambience for date night, Sushiholic x BBQholic is definitely worth a visit."
+  },
+  {
+    "restaurantName": "Cafeteria",
+    "address": "16 Akin Adesola St, Victoria Island, Lagos",
+    "tag": "budget-friendly brunch spot in VI with a wide range of breakfast options, reasonable pricing at 15,000 per person, cozy but small ambience, bubble tea available, not ideal for larger groups, located on the island",
+    "summary": "Cafeteria, located in Victoria Island (VI) on the island is a great spot for brunch or breakfast, offering a wide range of options such as omelettes, pancakes, and toast. The restaurant has reasonable pricing with a budget of 15,000 per person, making it a great option for a casual dining experience. While the space is a bit small and not particularly noteworthy in terms of ambience, the food is tasty and makes up for it. In addition to their breakfast offerings, they also have bubble tea which is worth trying. Note that it may not be ideal for larger groups due to the limited space, but it's a great spot for a meal with a friend."
+  },
+  {
+    "restaurantName": "Sabor",
+    "address": "134 Ahmadu Bello Way, beside Silverbird Cinemas, Victoria Island, Lagos",
+    "tag": "Sabor -trendy restaurant in VI with tasty, well-prepared dishes such as crab fritters, chicken lollipops, and burgers, prompt service, respectful and knowledgeable waitstaff, budget-friendly at 20,000 per person.",
+    "summary": "Sabor Lagos, located in Victoria Island (VI) on the island is a trendy and cool restaurant with a cozy indoor seating area and a calm outdoor space. While the food might not be particularly memorable, they do offer a variety of dishes that are tasty and well-prepared. The service is prompt and the waitstaff are respectful and knowledgeable. With a budget of 20,000 per person, the prices are reasonable and won't break the bank. If you're in the mood for casual dining with options like crab fritters, chicken lollipops, and burgers, Sabor Lagos is definitely worth checking out."
+  },
+  {
+    "restaurantName": "Pizze-Riah",
+    "address": "13 Musa Yar' Adua St, Victoria Island 106104, Lagos",
+    "tag": "Pizze-Riah: Great pizza, casual dining, and budget friendly pizza place budget: 10000 per person in VI with attentive service and tasty salads. located on the island",
+    "summary": "Pizze-Riah - located in Victorial Island (VI) on the island is a great budget-friendly option for pizza lovers in Lagos, the budget for this place is about 10,000 per person. Despite sometimes having long wait times, the attentive waiters make you feel special and ensure that you have a great experience. The ambience and decor are decent but not particularly memorable. In addition to their great pizza, their salad options are definitely worth trying. Pizze-Riah is a great option for casual dining with friends, offering value for money and making it a top choice for groups."
+  }
+]
