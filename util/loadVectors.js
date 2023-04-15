@@ -1,8 +1,11 @@
 import { PineconeClient } from "@pinecone-database/pinecone";
 import { Document } from "langchain/document";
-import { OpenAIEmbeddings } from "langchain/embeddings";
-import { PineconeStore } from "langchain/vectorstores";
-import source from "../misc/sourceOfTruth.json" assert { type: "json" };
+import { OpenAIEmbeddings } from "langchain/embeddings/openai";
+import { PineconeStore } from "langchain/vectorstores/pinecone";
+import RestaurantProfile from "../models/RestaurantProfile.js";
+import mongoose from "mongoose";
+// import source from "../misc/sourceOfTruth.json" assert { type: "json" };
+import source2 from "../misc/test.json" assert { type: "json" };
 import dotenv from "dotenv";
 dotenv.config({ path: "../config.env" });
 
@@ -12,19 +15,92 @@ await client.init({
   environment: process.env.PINECONE_ENVIRONMENT,
 });
 
+console.log("testing.......");
+console.log(process.env.OPENAI_API_KEY);
+
 const pineconeIndex = client.Index(process.env.PINECONE_INDEX);
 
 const docs = [];
-for (var item of source) {
+// for (var item of source) {
+//   const documentFromSourceItemTag = new Document({
+//     metadata: {
+//       contentType: "restaurantTag",
+//       restaurantName: item.restaurantName,
+//     },
+//     pageContent: item.tag,
+//   });
+//   const documentFromSourceItemSummary = new Document({
+//     metadata: {
+//       contentType: "restaurantSummary",
+//       restaurantName: item.restaurantName,
+//     },
+//     pageContent: `${item.summary}`,
+//   });
+//   const combinedDoc = new Document({
+//     metadata: {
+//       contentType: "restaurantCombined",
+//       restaurantName: item.restaurantName,
+//     },
+//     pageContent: `${item.tag} ${item.summary}`,
+//   });
+//   docs.push(
+//     documentFromSourceItemSummary,
+//     documentFromSourceItemTag,
+//     combinedDoc
+//   );
+// }
+
+const loadIntoDB = async () => {
+  mongoose
+    .connect(process.env.DATABASE_URL, {
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    })
+    .then(() => console.log("DB connection successful"));
+  const entries = [];
+  for (var item of source2) {
+    const y = {
+      name: item.restaurantName,
+      summary: item.summary,
+      tag: item.tag,
+      address: item.address,
+      mainland: item.mainland,
+    };
+    entries.push(y);
+  }
+  for await (var entry of entries) {
+    const exists = await RestaurantProfile.findOne({ name: entry.name });
+    if (!exists) {
+      await RestaurantProfile.create({
+        name: entry.name,
+        mainland: entry.mainland,
+        address: entry.address,
+        tag: entry.tag,
+        summary: entry.summary,
+      });
+    }
+  }
+  await mongoose.disconnect();
+};
+
+loadIntoDB();
+
+for (var item of source2) {
   const documentFromSourceItemTag = new Document({
-    metadata: { contentType: "restaurantTag" },
+    metadata: {
+      contentType: "restaurantTag3",
+      restaurantName: item.restaurantName,
+    },
     pageContent: item.tag,
   });
-  const documentFromSourceItemSummary = new Document({
-    metadata: { contentType: "restaurantSummary" },
-    pageContent: `name>${item.restaurantName}> ${item.summary}`,
+  const combinedDoc = new Document({
+    metadata: {
+      contentType: "restaurantTagAddress3",
+      restaurantName: item.restaurantName,
+    },
+    pageContent: `${item.tag}, ${item.address}`,
   });
-  docs.push(documentFromSourceItemSummary, documentFromSourceItemTag);
+  docs.push(documentFromSourceItemTag, combinedDoc);
 }
 
 /**
