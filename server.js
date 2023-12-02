@@ -9,7 +9,9 @@ const URI = `/webhook/${BOT_TOKEN}`;
 const WEBHOOK_URL = lOCAL_SERVER_URL + URI;
 
 const init = async () => {
-  const res = await fetch(`${TELEGRAM_API}/setWebhook?url=${WEBHOOK_URL}`);
+  const res = await fetch(
+    `${TELEGRAM_API}/setWebhook?url=${WEBHOOK_URL}&drop_pending_updates=True`
+  );
   const info = await res.json();
   console.log(info);
 };
