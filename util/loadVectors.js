@@ -65,6 +65,7 @@ const loadIntoDB = async () => {
       tag: item.tag,
       address: item.address,
       mainland: item.mainland,
+      score: item.score,
     };
     entries.push(y);
   }
@@ -77,6 +78,7 @@ const loadIntoDB = async () => {
         address: entry.address,
         tag: entry.tag,
         summary: entry.summary,
+        score: entry.score,
       });
     }
   }
@@ -88,14 +90,14 @@ loadIntoDB();
 for (var item of source2) {
   const documentFromSourceItemTag = new Document({
     metadata: {
-      contentType: "restaurantTag3",
+      contentType: "restaurantTag4",
       restaurantName: item.restaurantName,
     },
     pageContent: item.tag,
   });
   const combinedDoc = new Document({
     metadata: {
-      contentType: "restaurantTagAddress3",
+      contentType: "restaurantTagAddress4",
       restaurantName: item.restaurantName,
     },
     pageContent: `${item.tag}, ${item.address}`,
