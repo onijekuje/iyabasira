@@ -20,6 +20,9 @@ const RestaurantProfileSchema = new mongoose.Schema({
   mainland: {
     type: Boolean,
   },
+  score: {
+    type: Number,
+  },
 });
 
 const RestaurantProfile = mongoose.model(
