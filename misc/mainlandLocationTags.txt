@@ -1,0 +1,1 @@
+located on the mainland: true, located on the island: false,budget friendly, location: on the mainland, not on the island,
