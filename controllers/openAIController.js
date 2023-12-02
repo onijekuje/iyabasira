@@ -47,8 +47,8 @@ import RestaurantProfile from "../models/RestaurantProfile.js";
 // };
 
 export const extractRecommendationTagsFromMessage = async (message) => {
-  console.log("extract recommendation tags called ....");
-  console.log(process.env.OPEN_AI_KEY);
+  // console.log("extract recommendation tags called ....");
+  // console.log(process.env.OPEN_AI_KEY);
   const configuration = new Configuration({
     apiKey: process.env.OPEN_AI_KEY,
   });
@@ -65,11 +65,11 @@ export const extractRecommendationTagsFromMessage = async (message) => {
     });
     // console.log("response is ", response.data.choices[0].text);
     const result = response.data.choices[0].text;
-    console.log(response.data.choices[0].text);
-    console.log("response is ", response.data.choices[0].text);
-    console.log(
-      "-----------------------------------------------------------------"
-    );
+    // console.log(response.data.choices[0].text);
+    // console.log("response is ", response.data.choices[0].text);
+    // console.log(
+    //   "-----------------------------------------------------------------"
+    // );
     if (result.length === 0) {
       return {
         message:
@@ -123,10 +123,13 @@ export const getContextForRecommendations = async (query, contentType) => {
     const res = filteredContext.map((c) => {
       const uc = {
         pageContent: c.summary,
+        score: c.score,
       };
       return uc;
     });
-    return res;
+    const sortedRes = res.sort((a, b) => b.score - a.score);
+    // console.log("sortedRes ---> ", sortedRes);
+    return sortedRes;
   } catch (err) {
     console.log("error in get context");
     console.log(err);
@@ -164,15 +167,17 @@ export const generateAnswerBasedOnContext = async (
     context += doc.pageContent;
     context += "\n";
   }
-  console.log("context is ", context);
+  console.log("context is --> ", context);
   const configuration = new Configuration({
     apiKey: process.env.OPEN_AI_KEY,
   });
   try {
-    const prompt = `A user is searching for: ${extractedTag} \n context : """${context}"""
-    using the context above, provide recommendations for restaurants that match the location and budget specified by the user relative
+    const prompt = `A person asks you this question: ${question} \n context : """${context}"""
+    using the context above, provide recommendations for restaurants that match the location and budget specified by the user(if any) relative
     to the amount of people.
-    Ensure that the prices are within the specified budget per person and ensure that the location of each restaurant are included the recommendation and include all of the restaurants mentioned in the context in your recommendation.
+    If the question includes any price or budget info, ensure that the prices of your recommendations
+    are within the specified budget and ensure that the location or address of each restaurant is included in each recommendation 
+    and include all of the restaurants mentioned in the context in your recommendation.
     the result should be written in a conversational manner, as if it was a human that was giving the response.
   `;
     const openai = new OpenAIApi(configuration);
@@ -184,7 +189,7 @@ export const generateAnswerBasedOnContext = async (
       frequency_penalty: 0,
       presence_penalty: 0,
     });
-    console.log(response.data.choices[0].text);
+    console.log("recommendation is --> ", response.data.choices[0].text);
     const recommendation = response.data.choices[0].text;
     return recommendation;
   } catch (err) {
